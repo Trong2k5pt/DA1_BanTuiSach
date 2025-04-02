@@ -41,6 +41,8 @@ namespace DA_1BanTuiSach
 							MessageBox.Show("Đăng Nhập Thành Công");
 							Form2 form2 = new Form2();
 							form2.Show();
+							form2.FormClosed += (s, args) => this.Show();
+							this.Hide();
 						}
 						else
 						{
@@ -58,6 +60,14 @@ namespace DA_1BanTuiSach
 		private void button2_Click(object sender, EventArgs e)
 		{
 			Application.Exit();
+		}
+
+		private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+		{
+			this.Hide();
+			Form3 form3 = new Form3();
+			form3.Show();
+			form3.FormClosed += (s, args) => this.Show();
 		}
 	}
 }

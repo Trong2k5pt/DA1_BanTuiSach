@@ -9,3 +9,4 @@ C:\Users\LEGION\Source\Repos\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\De
 C:\Users\LEGION\Source\Repos\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.exe
 C:\Users\LEGION\Source\Repos\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.pdb
 C:\Users\LEGION\Source\Repos\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.Form2.resources
+C:\Users\LEGION\Source\Repos\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.Form3.resources
