@@ -31,13 +31,13 @@
 			this.button1 = new System.Windows.Forms.Button();
 			this.button2 = new System.Windows.Forms.Button();
 			this.groupBox1 = new System.Windows.Forms.GroupBox();
-			this.pictureBox1 = new System.Windows.Forms.PictureBox();
 			this.label1 = new System.Windows.Forms.Label();
 			this.label2 = new System.Windows.Forms.Label();
 			this.label3 = new System.Windows.Forms.Label();
 			this.textBox1 = new System.Windows.Forms.TextBox();
 			this.textBox2 = new System.Windows.Forms.TextBox();
 			this.linkLabel1 = new System.Windows.Forms.LinkLabel();
+			this.pictureBox1 = new System.Windows.Forms.PictureBox();
 			this.groupBox1.SuspendLayout();
 			((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
 			this.SuspendLayout();
@@ -83,16 +83,6 @@
 			this.groupBox1.TabStop = false;
 			this.groupBox1.Text = "Thông Tin Đăng Nhập";
 			// 
-			// pictureBox1
-			// 
-			this.pictureBox1.Image = global::DA_1BanTuiSach.Properties.Resources._363963286_293256773357106_1565876528714835516_n;
-			this.pictureBox1.Location = new System.Drawing.Point(78, 245);
-			this.pictureBox1.Name = "pictureBox1";
-			this.pictureBox1.Size = new System.Drawing.Size(258, 228);
-			this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-			this.pictureBox1.TabIndex = 3;
-			this.pictureBox1.TabStop = false;
-			// 
 			// label1
 			// 
 			this.label1.AutoSize = true;
@@ -136,6 +126,7 @@
 			this.textBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.textBox2.Location = new System.Drawing.Point(160, 164);
 			this.textBox2.Name = "textBox2";
+			this.textBox2.PasswordChar = '?';
 			this.textBox2.Size = new System.Drawing.Size(234, 24);
 			this.textBox2.TabIndex = 5;
 			// 
@@ -149,6 +140,16 @@
 			this.linkLabel1.TabIndex = 6;
 			this.linkLabel1.TabStop = true;
 			this.linkLabel1.Text = "Quên Mật Khẩu";
+			// 
+			// pictureBox1
+			// 
+			this.pictureBox1.Image = global::DA_1BanTuiSach.Properties.Resources._363963286_293256773357106_1565876528714835516_n;
+			this.pictureBox1.Location = new System.Drawing.Point(78, 245);
+			this.pictureBox1.Name = "pictureBox1";
+			this.pictureBox1.Size = new System.Drawing.Size(258, 228);
+			this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+			this.pictureBox1.TabIndex = 3;
+			this.pictureBox1.TabStop = false;
 			// 
 			// Form1
 			// 
