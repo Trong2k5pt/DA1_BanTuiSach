@@ -1,0 +1,10 @@
+C:\Users\nehi1\Source\Repos\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\bin\Debug\DA_1BanTuiSach.exe.config
+C:\Users\nehi1\Source\Repos\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\bin\Debug\DA_1BanTuiSach.exe
+C:\Users\nehi1\Source\Repos\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\bin\Debug\DA_1BanTuiSach.pdb
+C:\Users\nehi1\Source\Repos\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.csproj.AssemblyReference.cache
+C:\Users\nehi1\Source\Repos\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.Properties.Resources.resources
+C:\Users\nehi1\Source\Repos\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.csproj.GenerateResource.cache
+C:\Users\nehi1\Source\Repos\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.csproj.CoreCompileInputs.cache
+C:\Users\nehi1\Source\Repos\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.exe
+C:\Users\nehi1\Source\Repos\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.pdb
+C:\Users\nehi1\Source\Repos\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.Form1.resources
