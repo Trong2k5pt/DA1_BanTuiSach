@@ -1,0 +1,11 @@
+C:\DuAN1\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\bin\Debug\DA_1BanTuiSach.exe.config
+C:\DuAN1\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\bin\Debug\DA_1BanTuiSach.exe
+C:\DuAN1\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\bin\Debug\DA_1BanTuiSach.pdb
+C:\DuAN1\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.csproj.AssemblyReference.cache
+C:\DuAN1\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.Form2.resources
+C:\DuAN1\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.Properties.Resources.resources
+C:\DuAN1\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.csproj.GenerateResource.cache
+C:\DuAN1\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.csproj.CoreCompileInputs.cache
+C:\DuAN1\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.exe
+C:\DuAN1\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.pdb
+C:\DuAN1\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.Form1.resources
