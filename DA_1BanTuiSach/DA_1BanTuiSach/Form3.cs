@@ -32,9 +32,9 @@ namespace DA_1BanTuiSach
 		{
 			try
 			{
-				string email = textBox1.Text.Trim();
-				string taiKhoan = textBox2.Text.Trim();
-				string newPassword = textBox3.Text.Trim();
+				string email = txtEnv.Text.Trim();
+				string taiKhoan = txtTknv.Text.Trim();
+				string newPassword = txtMkm.Text.Trim();
 
 				if (string.IsNullOrWhiteSpace(email) || string.IsNullOrWhiteSpace(taiKhoan) || string.IsNullOrWhiteSpace(newPassword))
 				{
@@ -67,9 +67,9 @@ namespace DA_1BanTuiSach
 							updateCmd.Parameters.AddWithValue("@TaiKhoan", taiKhoan);
 							updateCmd.ExecuteNonQuery();
 
-							textBox1.Clear();
-							textBox2.Clear();
-							textBox3.Clear();
+							txtEnv.Clear();
+							txtTknv.Clear();
+							txtMkm.Clear();
 
 							MessageBox.Show("Đổi mật khẩu thành công!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
 						}

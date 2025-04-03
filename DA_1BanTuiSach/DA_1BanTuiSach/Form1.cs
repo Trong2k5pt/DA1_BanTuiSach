@@ -24,8 +24,8 @@ namespace DA_1BanTuiSach
 			try
 			{
 				conn.Open();
-				string tk = textBox1.Text.Trim();
-				string mk = textBox2.Text.Trim(); // Chưa mã hóa, cần băm (hash) mật khẩu nếu CSDL đã lưu hash
+				string tk = txtTk.Text.Trim();
+				string mk = txtMk.Text.Trim(); // Chưa mã hóa, cần băm (hash) mật khẩu nếu CSDL đã lưu hash
 
 				string sql = "SELECT * FROM NhanVien WHERE taiKhoan = @tk AND matKhau = @mk";
 

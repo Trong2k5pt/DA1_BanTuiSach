@@ -31,13 +31,13 @@
 			this.label1 = new System.Windows.Forms.Label();
 			this.label2 = new System.Windows.Forms.Label();
 			this.label3 = new System.Windows.Forms.Label();
-			this.textBox1 = new System.Windows.Forms.TextBox();
-			this.textBox2 = new System.Windows.Forms.TextBox();
-			this.textBox3 = new System.Windows.Forms.TextBox();
+			this.txtEnv = new System.Windows.Forms.TextBox();
+			this.txtTknv = new System.Windows.Forms.TextBox();
+			this.txtMkm = new System.Windows.Forms.TextBox();
 			this.label4 = new System.Windows.Forms.Label();
 			this.linkLabel1 = new System.Windows.Forms.LinkLabel();
-			this.button1 = new System.Windows.Forms.Button();
-			this.button2 = new System.Windows.Forms.Button();
+			this.btnXn = new System.Windows.Forms.Button();
+			this.btnThoat = new System.Windows.Forms.Button();
 			this.SuspendLayout();
 			// 
 			// label1
@@ -46,7 +46,7 @@
 			this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.label1.Location = new System.Drawing.Point(416, 127);
 			this.label1.Name = "label1";
-			this.label1.Size = new System.Drawing.Size(267, 39);
+			this.label1.Size = new System.Drawing.Size(258, 38);
 			this.label1.TabIndex = 0;
 			this.label1.Text = "Quên Mật Khẩu";
 			// 
@@ -68,26 +68,26 @@
 			this.label3.TabIndex = 2;
 			this.label3.Text = "Tài Khoản Nhân Viên";
 			// 
-			// textBox1
+			// txtEnv
 			// 
-			this.textBox1.Location = new System.Drawing.Point(437, 238);
-			this.textBox1.Name = "textBox1";
-			this.textBox1.Size = new System.Drawing.Size(188, 24);
-			this.textBox1.TabIndex = 3;
+			this.txtEnv.Location = new System.Drawing.Point(437, 238);
+			this.txtEnv.Name = "txtEnv";
+			this.txtEnv.Size = new System.Drawing.Size(188, 24);
+			this.txtEnv.TabIndex = 3;
 			// 
-			// textBox2
+			// txtTknv
 			// 
-			this.textBox2.Location = new System.Drawing.Point(437, 301);
-			this.textBox2.Name = "textBox2";
-			this.textBox2.Size = new System.Drawing.Size(188, 24);
-			this.textBox2.TabIndex = 4;
+			this.txtTknv.Location = new System.Drawing.Point(437, 301);
+			this.txtTknv.Name = "txtTknv";
+			this.txtTknv.Size = new System.Drawing.Size(188, 24);
+			this.txtTknv.TabIndex = 4;
 			// 
-			// textBox3
+			// txtMkm
 			// 
-			this.textBox3.Location = new System.Drawing.Point(434, 365);
-			this.textBox3.Name = "textBox3";
-			this.textBox3.Size = new System.Drawing.Size(191, 24);
-			this.textBox3.TabIndex = 5;
+			this.txtMkm.Location = new System.Drawing.Point(434, 365);
+			this.txtMkm.Name = "txtMkm";
+			this.txtMkm.Size = new System.Drawing.Size(191, 24);
+			this.txtMkm.TabIndex = 5;
 			// 
 			// label4
 			// 
@@ -109,39 +109,39 @@
 			this.linkLabel1.Text = "Đăng Nhập";
 			this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked);
 			// 
-			// button1
+			// btnXn
 			// 
-			this.button1.AutoSize = true;
-			this.button1.Location = new System.Drawing.Point(434, 443);
-			this.button1.Name = "button1";
-			this.button1.Size = new System.Drawing.Size(83, 28);
-			this.button1.TabIndex = 8;
-			this.button1.Text = "Xác Nhận";
-			this.button1.UseVisualStyleBackColor = true;
-			this.button1.Click += new System.EventHandler(this.button1_Click);
+			this.btnXn.AutoSize = true;
+			this.btnXn.Location = new System.Drawing.Point(434, 443);
+			this.btnXn.Name = "btnXn";
+			this.btnXn.Size = new System.Drawing.Size(83, 28);
+			this.btnXn.TabIndex = 8;
+			this.btnXn.Text = "Xác Nhận";
+			this.btnXn.UseVisualStyleBackColor = true;
+			this.btnXn.Click += new System.EventHandler(this.button1_Click);
 			// 
-			// button2
+			// btnThoat
 			// 
-			this.button2.AutoSize = true;
-			this.button2.Location = new System.Drawing.Point(550, 443);
-			this.button2.Name = "button2";
-			this.button2.Size = new System.Drawing.Size(75, 28);
-			this.button2.TabIndex = 9;
-			this.button2.Text = "Thoát";
-			this.button2.UseVisualStyleBackColor = true;
+			this.btnThoat.AutoSize = true;
+			this.btnThoat.Location = new System.Drawing.Point(550, 443);
+			this.btnThoat.Name = "btnThoat";
+			this.btnThoat.Size = new System.Drawing.Size(75, 28);
+			this.btnThoat.TabIndex = 9;
+			this.btnThoat.Text = "Thoát";
+			this.btnThoat.UseVisualStyleBackColor = true;
 			// 
 			// Form3
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.ClientSize = new System.Drawing.Size(1071, 593);
-			this.Controls.Add(this.button2);
-			this.Controls.Add(this.button1);
+			this.Controls.Add(this.btnThoat);
+			this.Controls.Add(this.btnXn);
 			this.Controls.Add(this.linkLabel1);
 			this.Controls.Add(this.label4);
-			this.Controls.Add(this.textBox3);
-			this.Controls.Add(this.textBox2);
-			this.Controls.Add(this.textBox1);
+			this.Controls.Add(this.txtMkm);
+			this.Controls.Add(this.txtTknv);
+			this.Controls.Add(this.txtEnv);
 			this.Controls.Add(this.label3);
 			this.Controls.Add(this.label2);
 			this.Controls.Add(this.label1);
@@ -158,12 +158,12 @@
 		private System.Windows.Forms.Label label1;
 		private System.Windows.Forms.Label label2;
 		private System.Windows.Forms.Label label3;
-		private System.Windows.Forms.TextBox textBox1;
-		private System.Windows.Forms.TextBox textBox2;
-		private System.Windows.Forms.TextBox textBox3;
+		private System.Windows.Forms.TextBox txtEnv;
+		private System.Windows.Forms.TextBox txtTknv;
+		private System.Windows.Forms.TextBox txtMkm;
 		private System.Windows.Forms.Label label4;
 		private System.Windows.Forms.LinkLabel linkLabel1;
-		private System.Windows.Forms.Button button1;
-		private System.Windows.Forms.Button button2;
+		private System.Windows.Forms.Button btnXn;
+		private System.Windows.Forms.Button btnThoat;
 	}
 }

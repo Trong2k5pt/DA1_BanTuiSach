@@ -28,12 +28,12 @@
         /// </summary>
         private void InitializeComponent()
         {
-			this.button1 = new System.Windows.Forms.Button();
-			this.button2 = new System.Windows.Forms.Button();
+			this.btnDangNhap = new System.Windows.Forms.Button();
+			this.btnThoat = new System.Windows.Forms.Button();
 			this.groupBox1 = new System.Windows.Forms.GroupBox();
 			this.linkLabel1 = new System.Windows.Forms.LinkLabel();
-			this.textBox2 = new System.Windows.Forms.TextBox();
-			this.textBox1 = new System.Windows.Forms.TextBox();
+			this.txtMk = new System.Windows.Forms.TextBox();
+			this.txtTk = new System.Windows.Forms.TextBox();
 			this.label3 = new System.Windows.Forms.Label();
 			this.label2 = new System.Windows.Forms.Label();
 			this.label1 = new System.Windows.Forms.Label();
@@ -42,39 +42,39 @@
 			((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
 			this.SuspendLayout();
 			// 
-			// button1
+			// btnDangNhap
 			// 
-			this.button1.AutoSize = true;
-			this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.button1.Location = new System.Drawing.Point(107, 255);
-			this.button1.Name = "button1";
-			this.button1.Size = new System.Drawing.Size(104, 32);
-			this.button1.TabIndex = 0;
-			this.button1.Text = "Đăng Nhập";
-			this.button1.UseVisualStyleBackColor = true;
-			this.button1.Click += new System.EventHandler(this.button1_Click);
+			this.btnDangNhap.AutoSize = true;
+			this.btnDangNhap.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.btnDangNhap.Location = new System.Drawing.Point(107, 255);
+			this.btnDangNhap.Name = "btnDangNhap";
+			this.btnDangNhap.Size = new System.Drawing.Size(104, 32);
+			this.btnDangNhap.TabIndex = 0;
+			this.btnDangNhap.Text = "Đăng Nhập";
+			this.btnDangNhap.UseVisualStyleBackColor = true;
+			this.btnDangNhap.Click += new System.EventHandler(this.button1_Click);
 			// 
-			// button2
+			// btnThoat
 			// 
-			this.button2.AutoSize = true;
-			this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.button2.Location = new System.Drawing.Point(310, 255);
-			this.button2.Name = "button2";
-			this.button2.Size = new System.Drawing.Size(84, 32);
-			this.button2.TabIndex = 1;
-			this.button2.Text = "Thoát";
-			this.button2.UseVisualStyleBackColor = true;
-			this.button2.Click += new System.EventHandler(this.button2_Click);
+			this.btnThoat.AutoSize = true;
+			this.btnThoat.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.btnThoat.Location = new System.Drawing.Point(310, 255);
+			this.btnThoat.Name = "btnThoat";
+			this.btnThoat.Size = new System.Drawing.Size(84, 32);
+			this.btnThoat.TabIndex = 1;
+			this.btnThoat.Text = "Thoát";
+			this.btnThoat.UseVisualStyleBackColor = true;
+			this.btnThoat.Click += new System.EventHandler(this.button2_Click);
 			// 
 			// groupBox1
 			// 
 			this.groupBox1.Controls.Add(this.linkLabel1);
-			this.groupBox1.Controls.Add(this.textBox2);
-			this.groupBox1.Controls.Add(this.textBox1);
+			this.groupBox1.Controls.Add(this.txtMk);
+			this.groupBox1.Controls.Add(this.txtTk);
 			this.groupBox1.Controls.Add(this.label3);
 			this.groupBox1.Controls.Add(this.label2);
-			this.groupBox1.Controls.Add(this.button1);
-			this.groupBox1.Controls.Add(this.button2);
+			this.groupBox1.Controls.Add(this.btnDangNhap);
+			this.groupBox1.Controls.Add(this.btnThoat);
 			this.groupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.groupBox1.Location = new System.Drawing.Point(432, 202);
 			this.groupBox1.Name = "groupBox1";
@@ -95,22 +95,22 @@
 			this.linkLabel1.Text = "Quên Mật Khẩu";
 			this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked);
 			// 
-			// textBox2
+			// txtMk
 			// 
-			this.textBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.textBox2.Location = new System.Drawing.Point(160, 164);
-			this.textBox2.Name = "textBox2";
-			this.textBox2.PasswordChar = '?';
-			this.textBox2.Size = new System.Drawing.Size(234, 24);
-			this.textBox2.TabIndex = 5;
+			this.txtMk.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.txtMk.Location = new System.Drawing.Point(160, 164);
+			this.txtMk.Name = "txtMk";
+			this.txtMk.PasswordChar = '?';
+			this.txtMk.Size = new System.Drawing.Size(234, 24);
+			this.txtMk.TabIndex = 5;
 			// 
-			// textBox1
+			// txtTk
 			// 
-			this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.textBox1.Location = new System.Drawing.Point(160, 81);
-			this.textBox1.Name = "textBox1";
-			this.textBox1.Size = new System.Drawing.Size(234, 24);
-			this.textBox1.TabIndex = 4;
+			this.txtTk.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.txtTk.Location = new System.Drawing.Point(160, 81);
+			this.txtTk.Name = "txtTk";
+			this.txtTk.Size = new System.Drawing.Size(234, 24);
+			this.txtTk.TabIndex = 4;
 			// 
 			// label3
 			// 
@@ -173,12 +173,12 @@
 
 		#endregion
 
-		private System.Windows.Forms.Button button1;
-		private System.Windows.Forms.Button button2;
+		private System.Windows.Forms.Button btnDangNhap;
+		private System.Windows.Forms.Button btnThoat;
 		private System.Windows.Forms.GroupBox groupBox1;
 		private System.Windows.Forms.LinkLabel linkLabel1;
-		private System.Windows.Forms.TextBox textBox2;
-		private System.Windows.Forms.TextBox textBox1;
+		private System.Windows.Forms.TextBox txtMk;
+		private System.Windows.Forms.TextBox txtTk;
 		private System.Windows.Forms.Label label3;
 		private System.Windows.Forms.Label label2;
 		private System.Windows.Forms.PictureBox pictureBox1;
