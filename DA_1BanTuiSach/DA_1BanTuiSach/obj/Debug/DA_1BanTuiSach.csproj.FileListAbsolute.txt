@@ -1,0 +1,11 @@
+C:\DA1_HL\DA1\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\bin\Debug\DA_1BanTuiSach.exe.config
+C:\DA1_HL\DA1\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\bin\Debug\DA_1BanTuiSach.exe
+C:\DA1_HL\DA1\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\bin\Debug\DA_1BanTuiSach.pdb
+C:\DA1_HL\DA1\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.csproj.AssemblyReference.cache
+C:\DA1_HL\DA1\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.KhachHang.resources
+C:\DA1_HL\DA1\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.Properties.Resources.resources
+C:\DA1_HL\DA1\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.ThongKe.resources
+C:\DA1_HL\DA1\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.csproj.GenerateResource.cache
+C:\DA1_HL\DA1\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.csproj.CoreCompileInputs.cache
+C:\DA1_HL\DA1\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.exe
+C:\DA1_HL\DA1\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.pdb
