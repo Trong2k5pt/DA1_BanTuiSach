@@ -1,10 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DELL\\OneDrive\\M\u00E1y t\u00EDnh\\H\u1ECDc B\u00E0i\\DA_1\\DA_1BanTuiSach\\",
+  "WorkspaceRootPath": "C:\\Users\\DELL\\OneDrive\\M\u00E1y t\u00EDnh\\H\u1ECDc B\u00E0i\\GitDesTop\\DA1_BanTuiSach\\DA1_BanTuiSach\\DA_1BanTuiSach\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|c:\\users\\dell\\onedrive\\m\u00E1y t\u00EDnh\\h\u1ECDc b\u00E0i\\da_1\\da_1bantuisach\\da_1bantuisach\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|solutionrelative:da_1bantuisach\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|c:\\users\\dell\\onedrive\\m\u00E1y t\u00EDnh\\h\u1ECDc b\u00E0i\\gitdestop\\da1_bantuisach\\da1_bantuisach\\da_1bantuisach\\da_1bantuisach\\khuyenmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|solutionrelative:da_1bantuisach\\khuyenmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|C:\\Users\\DELL\\OneDrive\\M\u00E1y t\u00EDnh\\H\u1ECDc B\u00E0i\\GitDesTop\\DA1_BanTuiSach\\DA1_BanTuiSach\\DA_1BanTuiSach\\da_1bantuisach\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|solutionrelative:da_1bantuisach\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|C:\\Users\\DELL\\OneDrive\\M\u00E1y t\u00EDnh\\H\u1ECDc B\u00E0i\\GitDesTop\\DA1_BanTuiSach\\DA1_BanTuiSach\\DA_1BanTuiSach\\da_1bantuisach\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|solutionrelative:da_1bantuisach\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|C:\\Users\\DELL\\OneDrive\\M\u00E1y t\u00EDnh\\H\u1ECDc B\u00E0i\\GitDesTop\\DA1_BanTuiSach\\DA1_BanTuiSach\\DA_1BanTuiSach\\da_1bantuisach\\sanpham.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|solutionrelative:da_1bantuisach\\sanpham.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|C:\\Users\\DELL\\OneDrive\\M\u00E1y t\u00EDnh\\H\u1ECDc B\u00E0i\\GitDesTop\\DA1_BanTuiSach\\DA1_BanTuiSach\\DA_1BanTuiSach\\da_1bantuisach\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|solutionrelative:da_1bantuisach\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|C:\\Users\\DELL\\OneDrive\\M\u00E1y t\u00EDnh\\H\u1ECDc B\u00E0i\\GitDesTop\\DA1_BanTuiSach\\DA1_BanTuiSach\\DA_1BanTuiSach\\da_1bantuisach\\khuyenmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|solutionrelative:da_1bantuisach\\khuyenmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|C:\\Users\\DELL\\OneDrive\\M\u00E1y t\u00EDnh\\H\u1ECDc B\u00E0i\\GitDesTop\\DA1_BanTuiSach\\DA1_BanTuiSach\\DA_1BanTuiSach\\da_1bantuisach\\khuyenmai.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|solutionrelative:da_1bantuisach\\khuyenmai.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|C:\\Users\\DELL\\OneDrive\\M\u00E1y t\u00EDnh\\H\u1ECDc B\u00E0i\\GitDesTop\\DA1_BanTuiSach\\DA1_BanTuiSach\\DA_1BanTuiSach\\da_1bantuisach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|solutionrelative:da_1bantuisach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,15 +86,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\M\u00E1y t\u00EDnh\\H\u1ECDc B\u00E0i\\DA_1\\DA_1BanTuiSach\\DA_1BanTuiSach\\Form1.cs",
-              "RelativeDocumentMoniker": "DA_1BanTuiSach\\Form1.cs",
-              "ToolTip": "C:\\Users\\DELL\\OneDrive\\M\u00E1y t\u00EDnh\\H\u1ECDc B\u00E0i\\DA_1\\DA_1BanTuiSach\\DA_1BanTuiSach\\Form1.cs [Design]",
-              "RelativeToolTip": "DA_1BanTuiSach\\Form1.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "demo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\M\u00E1y t\u00EDnh\\H\u1ECDc B\u00E0i\\GitDesTop\\DA1_BanTuiSach\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\demo.cs",
+              "RelativeDocumentMoniker": "DA_1BanTuiSach\\demo.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\M\u00E1y t\u00EDnh\\DA1_BanTuiSach\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\demo.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\DA1_BanTuiSach\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\demo.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T06:16:02.532Z",
+              "WhenOpened": "2025-04-01T06:51:19.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KhuyenMai.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\M\u00E1y t\u00EDnh\\H\u1ECDc B\u00E0i\\GitDesTop\\DA1_BanTuiSach\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\KhuyenMai.cs",
+              "RelativeDocumentMoniker": "DA_1BanTuiSach\\KhuyenMai.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\M\u00E1y t\u00EDnh\\H\u1ECDc B\u00E0i\\GitDesTop\\DA1_BanTuiSach\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\KhuyenMai.cs [Design]",
+              "RelativeToolTip": "DA_1BanTuiSach\\KhuyenMai.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:31:17.899Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SanPham.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\M\u00E1y t\u00EDnh\\H\u1ECDc B\u00E0i\\GitDesTop\\DA1_BanTuiSach\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\SanPham.cs",
+              "RelativeDocumentMoniker": "DA_1BanTuiSach\\SanPham.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\DA1_BanTuiSach\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\SanPham.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Downloads\\DA1_BanTuiSach\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\SanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T17:27:17.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\M\u00E1y t\u00EDnh\\H\u1ECDc B\u00E0i\\GitDesTop\\DA1_BanTuiSach\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\SanPham.cs",
+              "RelativeDocumentMoniker": "DA_1BanTuiSach\\SanPham.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\M\u00E1y t\u00EDnh\\H\u1ECDc B\u00E0i\\GitDesTop\\DA1_BanTuiSach\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\SanPham.cs",
+              "RelativeToolTip": "DA_1BanTuiSach\\SanPham.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIAywBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:52:39.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KhuyenMai.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\M\u00E1y t\u00EDnh\\H\u1ECDc B\u00E0i\\GitDesTop\\DA1_BanTuiSach\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\KhuyenMai.cs",
+              "RelativeDocumentMoniker": "DA_1BanTuiSach\\KhuyenMai.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\M\u00E1y t\u00EDnh\\H\u1ECDc B\u00E0i\\GitDesTop\\DA1_BanTuiSach\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\KhuyenMai.cs",
+              "RelativeToolTip": "DA_1BanTuiSach\\KhuyenMai.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:57:48.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SanPham.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\M\u00E1y t\u00EDnh\\H\u1ECDc B\u00E0i\\GitDesTop\\DA1_BanTuiSach\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\SanPham.Designer.cs",
+              "RelativeDocumentMoniker": "DA_1BanTuiSach\\SanPham.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\M\u00E1y t\u00EDnh\\H\u1ECDc B\u00E0i\\GitDesTop\\DA1_BanTuiSach\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\SanPham.Designer.cs",
+              "RelativeToolTip": "DA_1BanTuiSach\\SanPham.Designer.cs",
+              "ViewState": "AgIAAGwBAAAAAAAAAAAnwIsBAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T17:59:02.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KhuyenMai.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\M\u00E1y t\u00EDnh\\H\u1ECDc B\u00E0i\\GitDesTop\\DA1_BanTuiSach\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\KhuyenMai.Designer.cs",
+              "RelativeDocumentMoniker": "DA_1BanTuiSach\\KhuyenMai.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\M\u00E1y t\u00EDnh\\H\u1ECDc B\u00E0i\\GitDesTop\\DA1_BanTuiSach\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\KhuyenMai.Designer.cs",
+              "RelativeToolTip": "DA_1BanTuiSach\\KhuyenMai.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T21:06:44.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\M\u00E1y t\u00EDnh\\H\u1ECDc B\u00E0i\\GitDesTop\\DA1_BanTuiSach\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\Program.cs",
+              "RelativeDocumentMoniker": "DA_1BanTuiSach\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\M\u00E1y t\u00EDnh\\H\u1ECDc B\u00E0i\\GitDesTop\\DA1_BanTuiSach\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\Program.cs",
+              "RelativeToolTip": "DA_1BanTuiSach\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:47:19.132Z"
             }
           ]
         },

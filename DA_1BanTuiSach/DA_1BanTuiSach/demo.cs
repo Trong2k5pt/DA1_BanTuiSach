@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace DA_1BanTuiSach
 {
-    public partial class Form1 : Form
+    public partial class demo : Form
     {
-        public Form1()
+        public demo()
         {
             InitializeComponent();
         }
