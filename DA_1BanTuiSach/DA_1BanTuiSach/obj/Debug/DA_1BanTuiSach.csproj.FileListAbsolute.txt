@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\DA1_HL\DA1\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\bin\Debug\DA_1BanTuiSach.exe.config
 C:\DA1_HL\DA1\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\bin\Debug\DA_1BanTuiSach.exe
 C:\DA1_HL\DA1\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\bin\Debug\DA_1BanTuiSach.pdb
@@ -9,3 +10,51 @@ C:\DA1_HL\DA1\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiS
 C:\DA1_HL\DA1\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.csproj.CoreCompileInputs.cache
 C:\DA1_HL\DA1\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.exe
 C:\DA1_HL\DA1\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.pdb
+=======
+<<<<<<< HEAD
+C:\Users\nehi1\source\repos\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\bin\Debug\DA_1BanTuiSach.exe.config
+C:\Users\nehi1\source\repos\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\bin\Debug\DA_1BanTuiSach.exe
+C:\Users\nehi1\source\repos\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\bin\Debug\DA_1BanTuiSach.pdb
+C:\Users\nehi1\source\repos\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.csproj.AssemblyReference.cache
+C:\Users\nehi1\source\repos\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.FormBanHang.resources
+C:\Users\nehi1\source\repos\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.FormQuanLyHoaDon.resources
+C:\Users\nehi1\source\repos\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.csproj.GenerateResource.cache
+C:\Users\nehi1\source\repos\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.csproj.CoreCompileInputs.cache
+C:\Users\nehi1\source\repos\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.exe
+C:\Users\nehi1\source\repos\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.pdb
+=======
+C:\Users\DELL\OneDrive\Máy tính\Học Bài\DA_1\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\bin\Debug\DA_1BanTuiSach.exe.config
+C:\Users\DELL\OneDrive\Máy tính\Học Bài\DA_1\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\bin\Debug\DA_1BanTuiSach.exe
+C:\Users\DELL\OneDrive\Máy tính\Học Bài\DA_1\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\bin\Debug\DA_1BanTuiSach.pdb
+C:\Users\DELL\OneDrive\Máy tính\Học Bài\DA_1\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Máy tính\Học Bài\DA_1\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Máy tính\Học Bài\DA_1\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Máy tính\Học Bài\DA_1\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\Học Bài\DA_1\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.exe
+C:\Users\DELL\OneDrive\Máy tính\Học Bài\DA_1\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.pdb
+C:\Users\DELL\OneDrive\Máy tính\Học Bài\DA_1\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.SanPham.resources
+C:\Users\DELL\OneDrive\Máy tính\Học Bài\DA_1\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.KhuyenMai.resources
+C:\Users\LEGION\Downloads\DA1_BanTuiSach\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\bin\Debug\DA_1BanTuiSach.exe.config
+C:\Users\LEGION\Downloads\DA1_BanTuiSach\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\bin\Debug\DA_1BanTuiSach.exe
+C:\Users\LEGION\Downloads\DA1_BanTuiSach\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\bin\Debug\DA_1BanTuiSach.pdb
+C:\Users\LEGION\Downloads\DA1_BanTuiSach\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.csproj.AssemblyReference.cache
+C:\Users\LEGION\Downloads\DA1_BanTuiSach\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.KhuyenMai.resources
+C:\Users\LEGION\Downloads\DA1_BanTuiSach\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.Properties.Resources.resources
+C:\Users\LEGION\Downloads\DA1_BanTuiSach\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.SanPham.resources
+C:\Users\LEGION\Downloads\DA1_BanTuiSach\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.csproj.GenerateResource.cache
+C:\Users\LEGION\Downloads\DA1_BanTuiSach\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Downloads\DA1_BanTuiSach\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.exe
+C:\Users\LEGION\Downloads\DA1_BanTuiSach\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.pdb
+C:\Users\DELL\Downloads\DA1_BanTuiSach\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\bin\Debug\DA_1BanTuiSach.exe.config
+C:\Users\DELL\Downloads\DA1_BanTuiSach\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\bin\Debug\DA_1BanTuiSach.exe
+C:\Users\DELL\Downloads\DA1_BanTuiSach\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\bin\Debug\DA_1BanTuiSach.pdb
+C:\Users\DELL\Downloads\DA1_BanTuiSach\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\DA1_BanTuiSach\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.KhuyenMai.resources
+C:\Users\DELL\Downloads\DA1_BanTuiSach\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.Properties.Resources.resources
+C:\Users\DELL\Downloads\DA1_BanTuiSach\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.SanPham.resources
+C:\Users\DELL\Downloads\DA1_BanTuiSach\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\DA1_BanTuiSach\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\DA1_BanTuiSach\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.exe
+C:\Users\DELL\Downloads\DA1_BanTuiSach\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.pdb
+>>>>>>> main
+>>>>>>> main
