@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 namespace DA_1BanTuiSach
 {
-    static class Program
+    internal static class Program
     {
         /// <summary>
         /// The main entry point for the application.
@@ -16,6 +16,7 @@ namespace DA_1BanTuiSach
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new DangNhap());
             Application.Run(new FormQuanLyHoaDon()); // Đổi thành form chính của bạn nếu không phải FormBanHang
            // Application.Run(new KhuyenMaiForm());
             //Application.Run(new KhachHangForm());

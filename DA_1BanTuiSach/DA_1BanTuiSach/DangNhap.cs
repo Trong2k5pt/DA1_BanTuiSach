@@ -11,9 +11,9 @@ using System.Windows.Forms;
 
 namespace DA_1BanTuiSach
 {
-    public partial class Form1 : Form
+    public partial class DangNhap : Form
     {
-        public Form1()
+        public DangNhap()
         {
             InitializeComponent();
         }
@@ -65,7 +65,7 @@ namespace DA_1BanTuiSach
 		private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
 		{
 			this.Hide();
-			Form3 form3 = new Form3();
+			QMK form3 = new QMK();
 			form3.Show();
 			form3.FormClosed += (s, args) => this.Show();
 		}

@@ -12,10 +12,10 @@ using System.Windows.Forms;
 
 namespace DA_1BanTuiSach
 {
-    public partial class Form3: Form
+    public partial class QMK: Form
     {
 		SqlConnection conn;
-        public Form3()
+        public QMK()
         {
             InitializeComponent();
 			connect();
@@ -97,7 +97,7 @@ namespace DA_1BanTuiSach
 		private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
 		{
 			this.Hide(); // Ẩn form hiện tại
-			Form1 form1 = new Form1();
+			DangNhap form1 = new DangNhap();
 
 			// Khi form1 đóng, form hiện tại sẽ hiện lại
 			form1.FormClosed += (s, args) => this.Show();

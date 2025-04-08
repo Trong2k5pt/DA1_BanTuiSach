@@ -1,6 +1,6 @@
 ﻿namespace DA_1BanTuiSach
 {
-	partial class Form3
+	partial class QMK
 	{
 		/// <summary>
 		/// Required designer variable.

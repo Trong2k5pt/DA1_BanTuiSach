@@ -1,6 +1,6 @@
 ﻿namespace DA_1BanTuiSach
 {
-    partial class Form1
+    partial class DangNhap
     {
         /// <summary>
         /// Required designer variable.
