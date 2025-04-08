@@ -144,11 +144,6 @@
     <EmbeddedResource Include="FormQuanLyHoaDon.resx">
       <DependentUpon>FormQuanLyHoaDon.cs</DependentUpon>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
-    </Compile>
     <EmbeddedResource Include="SanPhamForm.resx">
       <DependentUpon>SanPhamForm.cs</DependentUpon>
     </EmbeddedResource>
