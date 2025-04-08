@@ -1,0 +1,24 @@
+C:\Users\LEGION\Source\Repos\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\bin\Debug\DA_1BanTuiSach.exe.config
+C:\Users\LEGION\Source\Repos\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\bin\Debug\DA_1BanTuiSach.exe
+C:\Users\LEGION\Source\Repos\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\bin\Debug\DA_1BanTuiSach.pdb
+C:\Users\LEGION\Source\Repos\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.csproj.AssemblyReference.cache
+C:\Users\LEGION\Source\Repos\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.Form1.resources
+C:\Users\LEGION\Source\Repos\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.Properties.Resources.resources
+C:\Users\LEGION\Source\Repos\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.csproj.GenerateResource.cache
+C:\Users\LEGION\Source\Repos\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Source\Repos\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.exe
+C:\Users\LEGION\Source\Repos\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.pdb
+C:\Users\LEGION\Source\Repos\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.Form2.resources
+C:\Users\LEGION\Source\Repos\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.Form3.resources
+C:\Users\LEGION\source\repos\DA1_BanTuiSach (2)\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.csproj.AssemblyReference.cache
+C:\Users\LEGION\source\repos\DA1_BanTuiSach (2)\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.DangNhap.resources
+C:\Users\LEGION\source\repos\DA1_BanTuiSach (2)\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.Form2.resources
+C:\Users\LEGION\source\repos\DA1_BanTuiSach (2)\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.QMK.resources
+C:\Users\LEGION\source\repos\DA1_BanTuiSach (2)\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.Properties.Resources.resources
+C:\Users\LEGION\source\repos\DA1_BanTuiSach (2)\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.csproj.GenerateResource.cache
+C:\Users\LEGION\source\repos\DA1_BanTuiSach (2)\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\DA1_BanTuiSach (2)\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.exe
+C:\Users\LEGION\source\repos\DA1_BanTuiSach (2)\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.pdb
+C:\Users\LEGION\source\repos\DA1_BanTuiSach (2)\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\bin\Debug\DA_1BanTuiSach.exe.config
+C:\Users\LEGION\source\repos\DA1_BanTuiSach (2)\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\bin\Debug\DA_1BanTuiSach.exe
+C:\Users\LEGION\source\repos\DA1_BanTuiSach (2)\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\bin\Debug\DA_1BanTuiSach.pdb
