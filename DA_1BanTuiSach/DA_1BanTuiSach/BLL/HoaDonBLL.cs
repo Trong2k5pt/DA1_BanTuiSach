@@ -68,6 +68,43 @@ namespace DA_1BanTuiSach.BLL
             return list;
         }
 
+        public List<HoaDon> GetAllHoaDonDaThanhToan()
+        {
+            var list = new List<HoaDon>();
+            using (SqlConnection conn = new SqlConnection(DbHelper.ConnectionString))
+            {
+                conn.Open();
+                var cmd = new SqlCommand("SELECT * FROM HoaDon WHERE trangThai = 1", conn);
+                var reader = cmd.ExecuteReader();
+                while (reader.Read())
+                {
+                    list.Add(new HoaDon
+                    {
+                        MaHoaDon = (int)reader["maHoaDon"],
+                        MaHoaDonHienThi = reader["maHoaDonHienThi"].ToString(),
+                        TenKhachHang = reader["tenKhachHang"].ToString(),
+                        SoDienThoai = reader["soDienThoai"].ToString(),
+                        NgayLapHoaDon = (DateTime)reader["ngayLapHoaDon"],
+                        TongTien = (decimal)reader["tongTien"],
+                        MaKhachHang = (int)reader["maKhachHang"],
+                        MaNhanVien = (int)reader["maNhanVien"],
+                    });
+                }
+            }
+            return list;
+        }
+        public void UpdateThongTinKhachHang(int maHoaDon, string tenKH, string soDT)
+        {
+            using (SqlConnection conn = new SqlConnection(DbHelper.ConnectionString))
+            {
+                conn.Open();
+                var cmd = new SqlCommand("UPDATE HoaDon SET tenKhachHang = @ten, soDienThoai = @sdt WHERE maHoaDon = @ma", conn);
+                cmd.Parameters.AddWithValue("@ten", tenKH);
+                cmd.Parameters.AddWithValue("@sdt", soDT);
+                cmd.Parameters.AddWithValue("@ma", maHoaDon);
+                cmd.ExecuteNonQuery();
+            }
+        }
 
         public void UpdateTrangThai(int maHoaDon, bool trangThai)
         {

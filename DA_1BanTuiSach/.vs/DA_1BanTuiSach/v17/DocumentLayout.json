@@ -7,48 +7,64 @@
       "RelativeMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|solutionrelative:da_1bantuisach\\formbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\da_1bantuisach\\formbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|solutionrelative:da_1bantuisach\\formbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|c:\\users\\nehi1\\source\\repos\\da1_bantuisach\\da_1bantuisach\\da_1bantuisach\\formbanhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|solutionrelative:da_1bantuisach\\formbanhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\da_1bantuisach\\bll\\sanphamchitietbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|solutionrelative:da_1bantuisach\\bll\\sanphamchitietbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\da_1bantuisach\\dto\\model\\sanphamchitietview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|solutionrelative:da_1bantuisach\\dto\\model\\sanphamchitietview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|c:\\users\\nehi1\\source\\repos\\da1_bantuisach\\da_1bantuisach\\da_1bantuisach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|solutionrelative:da_1bantuisach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\da_1bantuisach\\dto\\model\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|solutionrelative:da_1bantuisach\\dto\\model\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\da_1bantuisach\\bll\\hoadonchitietbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|solutionrelative:da_1bantuisach\\bll\\hoadonchitietbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\da_1bantuisach\\formquanlyhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|solutionrelative:da_1bantuisach\\formquanlyhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\da_1bantuisach\\bll\\hoadonbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|solutionrelative:da_1bantuisach\\bll\\hoadonbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\da_1bantuisach\\bll\\khachhangbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|solutionrelative:da_1bantuisach\\bll\\khachhangbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\da_1bantuisach\\dto\\model\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|solutionrelative:da_1bantuisach\\dto\\model\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\da_1bantuisach\\formquanlyhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|solutionrelative:da_1bantuisach\\formquanlyhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\da_1bantuisach\\formquanlyhoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|solutionrelative:da_1bantuisach\\formquanlyhoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\da_1bantuisach\\formbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|solutionrelative:da_1bantuisach\\formbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\da_1bantuisach\\formquanlyhoadon.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|solutionrelative:da_1bantuisach\\formquanlyhoadon.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\da_1bantuisach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|solutionrelative:da_1bantuisach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\da_1bantuisach\\bll\\sanphamchitietbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|solutionrelative:da_1bantuisach\\bll\\sanphamchitietbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\da_1bantuisach\\bll\\sanphambll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|solutionrelative:da_1bantuisach\\bll\\sanphambll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\da_1bantuisach\\bll\\hoadonchitietbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|solutionrelative:da_1bantuisach\\bll\\hoadonchitietbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\da_1bantuisach\\bll\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|solutionrelative:da_1bantuisach\\bll\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\da_1bantuisach\\bll\\sanphambll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|solutionrelative:da_1bantuisach\\bll\\sanphambll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\da_1bantuisach\\formbanhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|solutionrelative:da_1bantuisach\\formbanhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\da_1bantuisach\\dto\\model\\sanphamchitietview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|solutionrelative:da_1bantuisach\\dto\\model\\sanphamchitietview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\da_1bantuisach\\bll\\khachhangbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|solutionrelative:da_1bantuisach\\bll\\khachhangbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{31A2C2E2-A55D-400D-9DEE-7E13C587F52A}|DA_1BanTuiSach\\DA_1BanTuiSach.csproj|C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\da_1bantuisach\\bll\\nhanvienbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -106,11 +122,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "HoaDon.cs",
               "DocumentMoniker": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\DTO\\Model\\HoaDon.cs",
               "RelativeDocumentMoniker": "DA_1BanTuiSach\\DTO\\Model\\HoaDon.cs",
@@ -120,23 +136,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-03T09:59:16.823Z",
               "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FormBanHang.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\FormBanHang.Designer.cs",
-              "RelativeDocumentMoniker": "DA_1BanTuiSach\\FormBanHang.Designer.cs",
-              "ToolTip": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\FormBanHang.Designer.cs",
-              "RelativeToolTip": "DA_1BanTuiSach\\FormBanHang.Designer.cs",
-              "ViewState": "AQIAAMEAAAAAAAAAAAAMwNYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T15:35:00.01Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Bookmark",
@@ -176,46 +175,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormBanHang.cs",
-              "DocumentMoniker": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\FormBanHang.cs",
-              "RelativeDocumentMoniker": "DA_1BanTuiSach\\FormBanHang.cs",
-              "ToolTip": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\FormBanHang.cs",
-              "RelativeToolTip": "DA_1BanTuiSach\\FormBanHang.cs",
-              "ViewState": "AQIAAD8BAAAAAAAAAAAcwEQBAAArAAAA",
+              "DocumentIndex": 1,
+              "Title": "FormQuanLyHoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\FormQuanLyHoaDon.cs",
+              "RelativeDocumentMoniker": "DA_1BanTuiSach\\FormQuanLyHoaDon.cs",
+              "ToolTip": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\FormQuanLyHoaDon.cs",
+              "RelativeToolTip": "DA_1BanTuiSach\\FormQuanLyHoaDon.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAuwDgAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T14:32:34.966Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T19:49:48.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HoaDonBLL.cs",
+              "DocumentMoniker": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\BLL\\HoaDonBLL.cs",
+              "RelativeDocumentMoniker": "DA_1BanTuiSach\\BLL\\HoaDonBLL.cs",
+              "ToolTip": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\BLL\\HoaDonBLL.cs",
+              "RelativeToolTip": "DA_1BanTuiSach\\BLL\\HoaDonBLL.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAqwGYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:01:38.413Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "SanPhamChiTietView.cs",
-              "DocumentMoniker": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\DTO\\Model\\SanPhamChiTietView.cs",
-              "RelativeDocumentMoniker": "DA_1BanTuiSach\\DTO\\Model\\SanPhamChiTietView.cs",
-              "ToolTip": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\DTO\\Model\\SanPhamChiTietView.cs",
-              "RelativeToolTip": "DA_1BanTuiSach\\DTO\\Model\\SanPhamChiTietView.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Title": "FormQuanLyHoaDon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\FormQuanLyHoaDon.cs",
+              "RelativeDocumentMoniker": "DA_1BanTuiSach\\FormQuanLyHoaDon.cs",
+              "ToolTip": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\FormQuanLyHoaDon.cs [Design]",
+              "RelativeToolTip": "DA_1BanTuiSach\\FormQuanLyHoaDon.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T11:35:00.045Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T20:29:17.844Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\Program.cs",
-              "RelativeDocumentMoniker": "DA_1BanTuiSach\\Program.cs",
-              "ToolTip": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\Program.cs",
-              "RelativeToolTip": "DA_1BanTuiSach\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Title": "FormQuanLyHoaDon.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\FormQuanLyHoaDon.Designer.cs",
+              "RelativeDocumentMoniker": "DA_1BanTuiSach\\FormQuanLyHoaDon.Designer.cs",
+              "ToolTip": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\FormQuanLyHoaDon.Designer.cs",
+              "RelativeToolTip": "DA_1BanTuiSach\\FormQuanLyHoaDon.Designer.cs",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAYwJsAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T15:02:52.3Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T19:31:25.292Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "FormBanHang.cs [Design]",
               "DocumentMoniker": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\FormBanHang.cs",
               "RelativeDocumentMoniker": "DA_1BanTuiSach\\FormBanHang.cs",
@@ -227,60 +234,115 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HoaDonChiTietBLL.cs",
-              "DocumentMoniker": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\BLL\\HoaDonChiTietBLL.cs",
-              "RelativeDocumentMoniker": "DA_1BanTuiSach\\BLL\\HoaDonChiTietBLL.cs",
-              "ToolTip": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\BLL\\HoaDonChiTietBLL.cs",
-              "RelativeToolTip": "DA_1BanTuiSach\\BLL\\HoaDonChiTietBLL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "FormBanHang.cs",
+              "DocumentMoniker": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\FormBanHang.cs",
+              "RelativeDocumentMoniker": "DA_1BanTuiSach\\FormBanHang.cs",
+              "ToolTip": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\FormBanHang.cs",
+              "RelativeToolTip": "DA_1BanTuiSach\\FormBanHang.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAUwG8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T11:51:33.41Z"
+              "WhenOpened": "2025-04-03T14:32:34.966Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
+              "Title": "FormQuanLyHoaDon.resx",
+              "DocumentMoniker": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\FormQuanLyHoaDon.resx",
+              "RelativeDocumentMoniker": "DA_1BanTuiSach\\FormQuanLyHoaDon.resx",
+              "ToolTip": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\FormQuanLyHoaDon.resx",
+              "RelativeToolTip": "DA_1BanTuiSach\\FormQuanLyHoaDon.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-04-07T19:31:28.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\Program.cs",
+              "RelativeDocumentMoniker": "DA_1BanTuiSach\\Program.cs",
+              "ToolTip": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\Program.cs",
+              "RelativeToolTip": "DA_1BanTuiSach\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T15:02:52.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "SanPhamChiTietBLL.cs",
               "DocumentMoniker": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\BLL\\SanPhamChiTietBLL.cs",
               "RelativeDocumentMoniker": "DA_1BanTuiSach\\BLL\\SanPhamChiTietBLL.cs",
               "ToolTip": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\BLL\\SanPhamChiTietBLL.cs",
               "RelativeToolTip": "DA_1BanTuiSach\\BLL\\SanPhamChiTietBLL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAtAAAA",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAwGYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T10:01:23.936Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "WhenOpened": "2025-04-03T10:01:23.936Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "HoaDonBLL.cs",
-              "DocumentMoniker": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\BLL\\HoaDonBLL.cs",
-              "RelativeDocumentMoniker": "DA_1BanTuiSach\\BLL\\HoaDonBLL.cs",
-              "ToolTip": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\BLL\\HoaDonBLL.cs",
-              "RelativeToolTip": "DA_1BanTuiSach\\BLL\\HoaDonBLL.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAYwEUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T10:01:38.413Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "SanPhamBLL.cs",
               "DocumentMoniker": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\BLL\\SanPhamBLL.cs",
               "RelativeDocumentMoniker": "DA_1BanTuiSach\\BLL\\SanPhamBLL.cs",
               "ToolTip": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\BLL\\SanPhamBLL.cs",
               "RelativeToolTip": "DA_1BanTuiSach\\BLL\\SanPhamBLL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAFAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwCYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-03T10:00:39.124Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
+              "Title": "HoaDonChiTietBLL.cs",
+              "DocumentMoniker": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\BLL\\HoaDonChiTietBLL.cs",
+              "RelativeDocumentMoniker": "DA_1BanTuiSach\\BLL\\HoaDonChiTietBLL.cs",
+              "ToolTip": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\BLL\\HoaDonChiTietBLL.cs",
+              "RelativeToolTip": "DA_1BanTuiSach\\BLL\\HoaDonChiTietBLL.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAwGcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:51:33.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DbHelper.cs",
+              "DocumentMoniker": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\BLL\\DbHelper.cs",
+              "RelativeDocumentMoniker": "DA_1BanTuiSach\\BLL\\DbHelper.cs",
+              "ToolTip": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\BLL\\DbHelper.cs",
+              "RelativeToolTip": "DA_1BanTuiSach\\BLL\\DbHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:24:22.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormBanHang.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\FormBanHang.Designer.cs",
+              "RelativeDocumentMoniker": "DA_1BanTuiSach\\FormBanHang.Designer.cs",
+              "ToolTip": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\FormBanHang.Designer.cs",
+              "RelativeToolTip": "DA_1BanTuiSach\\FormBanHang.Designer.cs",
+              "ViewState": "AQIAAMEAAAAAAAAAAAAMwNYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T15:35:00.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SanPhamChiTietView.cs",
+              "DocumentMoniker": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\DTO\\Model\\SanPhamChiTietView.cs",
+              "RelativeDocumentMoniker": "DA_1BanTuiSach\\DTO\\Model\\SanPhamChiTietView.cs",
+              "ToolTip": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\DTO\\Model\\SanPhamChiTietView.cs",
+              "RelativeToolTip": "DA_1BanTuiSach\\DTO\\Model\\SanPhamChiTietView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:35:00.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "KhachHangBLL.cs",
               "DocumentMoniker": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\BLL\\KhachHangBLL.cs",
               "RelativeDocumentMoniker": "DA_1BanTuiSach\\BLL\\KhachHangBLL.cs",
@@ -292,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\Form1.cs",
               "RelativeDocumentMoniker": "DA_1BanTuiSach\\Form1.cs",
@@ -303,19 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DbHelper.cs",
-              "DocumentMoniker": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\BLL\\DbHelper.cs",
-              "RelativeDocumentMoniker": "DA_1BanTuiSach\\BLL\\DbHelper.cs",
-              "ToolTip": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\BLL\\DbHelper.cs",
-              "RelativeToolTip": "DA_1BanTuiSach\\BLL\\DbHelper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T10:24:22.686Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "NhanVienBLL.cs",
               "DocumentMoniker": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\BLL\\NhanVienBLL.cs",
               "RelativeDocumentMoniker": "DA_1BanTuiSach\\BLL\\NhanVienBLL.cs",
@@ -327,7 +377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "KhuyenMaiBLL.cs",
               "DocumentMoniker": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\BLL\\KhuyenMaiBLL.cs",
               "RelativeDocumentMoniker": "DA_1BanTuiSach\\BLL\\KhuyenMaiBLL.cs",
@@ -339,7 +389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "MauSacBLL.cs",
               "DocumentMoniker": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\BLL\\MauSacBLL.cs",
               "RelativeDocumentMoniker": "DA_1BanTuiSach\\BLL\\MauSacBLL.cs",
@@ -351,7 +401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "HoaDonChiTiet.cs",
               "DocumentMoniker": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\DTO\\Model\\HoaDonChiTiet.cs",
               "RelativeDocumentMoniker": "DA_1BanTuiSach\\DTO\\Model\\HoaDonChiTiet.cs",
@@ -363,7 +413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "SanPhamChiTiet.cs",
               "DocumentMoniker": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\DTO\\Model\\SanPhamChiTiet.cs",
               "RelativeDocumentMoniker": "DA_1BanTuiSach\\DTO\\Model\\SanPhamChiTiet.cs",
@@ -375,7 +425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "MauSac.cs",
               "DocumentMoniker": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\DTO\\Model\\MauSac.cs",
               "RelativeDocumentMoniker": "DA_1BanTuiSach\\DTO\\Model\\MauSac.cs",
@@ -387,7 +437,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "SanPham.cs",
               "DocumentMoniker": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\DTO\\Model\\SanPham.cs",
               "RelativeDocumentMoniker": "DA_1BanTuiSach\\DTO\\Model\\SanPham.cs",
@@ -399,7 +449,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "NhanVien.cs",
               "DocumentMoniker": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\DTO\\Model\\NhanVien.cs",
               "RelativeDocumentMoniker": "DA_1BanTuiSach\\DTO\\Model\\NhanVien.cs",
@@ -411,7 +461,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "KhachHang.cs",
               "DocumentMoniker": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\DTO\\Model\\KhachHang.cs",
               "RelativeDocumentMoniker": "DA_1BanTuiSach\\DTO\\Model\\KhachHang.cs",
@@ -423,7 +473,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "KhuyenMai.cs",
               "DocumentMoniker": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\DTO\\Model\\KhuyenMai.cs",
               "RelativeDocumentMoniker": "DA_1BanTuiSach\\DTO\\Model\\KhuyenMai.cs",
@@ -435,7 +485,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\nehi1\\source\\repos\\DA1_BanTuiSach\\DA_1BanTuiSach\\DA_1BanTuiSach\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "DA_1BanTuiSach\\Form1.Designer.cs",
@@ -451,10 +501,6 @@
           "DockedWidth": 200,
           "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"

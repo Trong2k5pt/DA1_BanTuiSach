@@ -3,6 +3,7 @@ C:\Users\nehi1\source\repos\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\bin\Deb
 C:\Users\nehi1\source\repos\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\bin\Debug\DA_1BanTuiSach.pdb
 C:\Users\nehi1\source\repos\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.csproj.AssemblyReference.cache
 C:\Users\nehi1\source\repos\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.FormBanHang.resources
+C:\Users\nehi1\source\repos\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.FormQuanLyHoaDon.resources
 C:\Users\nehi1\source\repos\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.csproj.GenerateResource.cache
 C:\Users\nehi1\source\repos\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.csproj.CoreCompileInputs.cache
 C:\Users\nehi1\source\repos\DA1_BanTuiSach\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.exe
