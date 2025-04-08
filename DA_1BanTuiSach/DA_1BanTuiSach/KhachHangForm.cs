@@ -12,11 +12,11 @@ using System.Windows.Forms;
 
 namespace DA_1BanTuiSach
 {
-	public partial class KhachHang : Form
+	public partial class KhachHangForm : Form
 	{
 		SqlConnection con;
 		SqlCommand cmd;
-		string str = "Data Source=TINHLV\\SQLEXPRESS;Initial Catalog=QL02;Integrated Security=True;TrustServerCertificate=True ";
+		string str = "Data Source=DESKTOP-SEL9RHK;Initial Catalog=QL02;Integrated Security=True;TrustServerCertificate=True ";
 		SqlDataAdapter adapter = new SqlDataAdapter();
 		DataTable dt = new DataTable();
 
@@ -29,9 +29,10 @@ namespace DA_1BanTuiSach
 			adapter.Fill(dt);
 			data_viewKH.DataSource = dt;
 		}
-		public KhachHang()
+
+		public KhachHangForm()
 		{
-			InitializeComponent();
+            InitializeComponent();
 		}
 		private void KhachHang_Load(object sender, EventArgs e)
 		{

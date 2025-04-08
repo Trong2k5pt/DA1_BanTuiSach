@@ -8,6 +8,6 @@ namespace DA_1BanTuiSach.BLL
 {
     public class DbHelper
     {
-        public static string ConnectionString = "Server=(localdb)\\MSSQLLocalDB;Database=QL02;Trusted_Connection=True;";
+        public static string ConnectionString = "Server=DESKTOP-SEL9RHK;Database=QL02;Trusted_Connection=True;";
     }
 }

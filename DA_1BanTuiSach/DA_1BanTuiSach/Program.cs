@@ -17,8 +17,8 @@ namespace DA_1BanTuiSach
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new FormQuanLyHoaDon()); // Đổi thành form chính của bạn nếu không phải FormBanHang
-            Application.Run(new KhuyenMai());
-            Application.Run(new KhachHang());
+           // Application.Run(new KhuyenMaiForm());
+            //Application.Run(new KhachHangForm());
         }
     }
 }

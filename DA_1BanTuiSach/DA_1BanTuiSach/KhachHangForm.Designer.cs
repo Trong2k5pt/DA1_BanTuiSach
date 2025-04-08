@@ -1,6 +1,6 @@
 ﻿namespace DA_1BanTuiSach
 {
-	partial class KhachHang
+	partial class KhachHangForm
 	{
 		/// <summary>
 		/// Required designer variable.

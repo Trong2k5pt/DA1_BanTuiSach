@@ -81,7 +81,7 @@ namespace DA_1BanTuiSach.BLL
                     list.Add(new HoaDon
                     {
                         MaHoaDon = (int)reader["maHoaDon"],
-                        MaHoaDonHienThi = reader["maHoaDonHienThi"].ToString(),
+                        MaHoaDonHienThi = reader["maHoaDon"].ToString(),//chưa có mã hóa đơn hiển thị
                         TenKhachHang = reader["tenKhachHang"].ToString(),
                         SoDienThoai = reader["soDienThoai"].ToString(),
                         NgayLapHoaDon = (DateTime)reader["ngayLapHoaDon"],
