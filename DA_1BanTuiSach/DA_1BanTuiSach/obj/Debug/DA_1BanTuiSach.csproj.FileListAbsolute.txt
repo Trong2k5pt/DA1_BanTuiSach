@@ -1,0 +1,55 @@
+C:\Users\LEGION\Downloads\DA1_BanTuiSach-main1 (4)\DA1_BanTuiSach-main\DA_1BanTuiSach\DA_1BanTuiSach\bin\Debug\DA_1BanTuiSach.exe.config
+C:\Users\LEGION\Downloads\DA1_BanTuiSach-main1 (4)\DA1_BanTuiSach-main\DA_1BanTuiSach\DA_1BanTuiSach\bin\Debug\DA_1BanTuiSach.exe
+C:\Users\LEGION\Downloads\DA1_BanTuiSach-main1 (4)\DA1_BanTuiSach-main\DA_1BanTuiSach\DA_1BanTuiSach\bin\Debug\DA_1BanTuiSach.pdb
+C:\Users\LEGION\Downloads\DA1_BanTuiSach-main1 (4)\DA1_BanTuiSach-main\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.csproj.AssemblyReference.cache
+C:\Users\LEGION\Downloads\DA1_BanTuiSach-main1 (4)\DA1_BanTuiSach-main\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.KhuyenMai.resources
+C:\Users\LEGION\Downloads\DA1_BanTuiSach-main1 (4)\DA1_BanTuiSach-main\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.FormBanHang.resources
+C:\Users\LEGION\Downloads\DA1_BanTuiSach-main1 (4)\DA1_BanTuiSach-main\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.Properties.Resources.resources
+C:\Users\LEGION\Downloads\DA1_BanTuiSach-main1 (4)\DA1_BanTuiSach-main\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.FormQuanLyHoaDon.resources
+C:\Users\LEGION\Downloads\DA1_BanTuiSach-main1 (4)\DA1_BanTuiSach-main\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.SanPham.resources
+C:\Users\LEGION\Downloads\DA1_BanTuiSach-main1 (4)\DA1_BanTuiSach-main\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.ThongKe.resources
+C:\Users\LEGION\Downloads\DA1_BanTuiSach-main1 (4)\DA1_BanTuiSach-main\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.csproj.GenerateResource.cache
+C:\Users\LEGION\Downloads\DA1_BanTuiSach-main1 (4)\DA1_BanTuiSach-main\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Downloads\DA1_BanTuiSach-main1 (4)\DA1_BanTuiSach-main\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.exe
+C:\Users\LEGION\Downloads\DA1_BanTuiSach-main1 (4)\DA1_BanTuiSach-main\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.pdb
+C:\Users\LEGION\Downloads\DA1_BanTuiSach-main1 (4)\DA1_BanTuiSach-main\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.DangNhap.resources
+C:\Users\LEGION\Downloads\DA1_BanTuiSach-main1 (4)\DA1_BanTuiSach-main\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.QuanLyNhanVien.resources
+C:\Users\LEGION\Downloads\DA1_BanTuiSach-main1 (4)\DA1_BanTuiSach-main\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.QuenMatKhau.resources
+C:\DA1_HL\DA1_BanTuiSach-BaiHoangTienAnhSuaLanCuoi\DA_1BanTuiSach\DA_1BanTuiSach\bin\Debug\DA_1BanTuiSach.exe.config
+C:\DA1_HL\DA1_BanTuiSach-BaiHoangTienAnhSuaLanCuoi\DA_1BanTuiSach\DA_1BanTuiSach\bin\Debug\DA_1BanTuiSach.exe
+C:\DA1_HL\DA1_BanTuiSach-BaiHoangTienAnhSuaLanCuoi\DA_1BanTuiSach\DA_1BanTuiSach\bin\Debug\DA_1BanTuiSach.pdb
+C:\DA1_HL\DA1_BanTuiSach-BaiHoangTienAnhSuaLanCuoi\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.csproj.AssemblyReference.cache
+C:\DA1_HL\DA1_BanTuiSach-BaiHoangTienAnhSuaLanCuoi\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.DangNhap.resources
+C:\DA1_HL\DA1_BanTuiSach-BaiHoangTienAnhSuaLanCuoi\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.KhuyenMai.resources
+C:\DA1_HL\DA1_BanTuiSach-BaiHoangTienAnhSuaLanCuoi\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.FormBanHang.resources
+C:\DA1_HL\DA1_BanTuiSach-BaiHoangTienAnhSuaLanCuoi\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.Properties.Resources.resources
+C:\DA1_HL\DA1_BanTuiSach-BaiHoangTienAnhSuaLanCuoi\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.FormQuanLyHoaDon.resources
+C:\DA1_HL\DA1_BanTuiSach-BaiHoangTienAnhSuaLanCuoi\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.QuanLyNhanVien.resources
+C:\DA1_HL\DA1_BanTuiSach-BaiHoangTienAnhSuaLanCuoi\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.QuenMatKhau.resources
+C:\DA1_HL\DA1_BanTuiSach-BaiHoangTienAnhSuaLanCuoi\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.SanPham.resources
+C:\DA1_HL\DA1_BanTuiSach-BaiHoangTienAnhSuaLanCuoi\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.ThongKe.resources
+C:\DA1_HL\DA1_BanTuiSach-BaiHoangTienAnhSuaLanCuoi\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.csproj.GenerateResource.cache
+C:\DA1_HL\DA1_BanTuiSach-BaiHoangTienAnhSuaLanCuoi\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.csproj.CoreCompileInputs.cache
+C:\DA1_HL\DA1_BanTuiSach-BaiHoangTienAnhSuaLanCuoi\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.exe
+C:\DA1_HL\DA1_BanTuiSach-BaiHoangTienAnhSuaLanCuoi\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.pdb
+C:\DA1_HL\DA1_BanTuiSach-BaiHoangTienAnhSuaLanCuoi\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.KhachHang.resources
+C:\DA1_HL\DA1_BanTuiSach-BaiHoangTienAnhSuaLanCuoi\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.Menu.resources
+C:\Users\LEGION\Downloads\DA1_BanTuiSach-BaiLeVanTinhDaLamMenu\DA1_BanTuiSach-BaiHoangTienAnhSuaLanCuoi\DA_1BanTuiSach\DA_1BanTuiSach\bin\Debug\DA_1BanTuiSach.exe.config
+C:\Users\LEGION\Downloads\DA1_BanTuiSach-BaiLeVanTinhDaLamMenu\DA1_BanTuiSach-BaiHoangTienAnhSuaLanCuoi\DA_1BanTuiSach\DA_1BanTuiSach\bin\Debug\DA_1BanTuiSach.exe
+C:\Users\LEGION\Downloads\DA1_BanTuiSach-BaiLeVanTinhDaLamMenu\DA1_BanTuiSach-BaiHoangTienAnhSuaLanCuoi\DA_1BanTuiSach\DA_1BanTuiSach\bin\Debug\DA_1BanTuiSach.pdb
+C:\Users\LEGION\Downloads\DA1_BanTuiSach-BaiLeVanTinhDaLamMenu\DA1_BanTuiSach-BaiHoangTienAnhSuaLanCuoi\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.csproj.AssemblyReference.cache
+C:\Users\LEGION\Downloads\DA1_BanTuiSach-BaiLeVanTinhDaLamMenu\DA1_BanTuiSach-BaiHoangTienAnhSuaLanCuoi\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.DangNhap.resources
+C:\Users\LEGION\Downloads\DA1_BanTuiSach-BaiLeVanTinhDaLamMenu\DA1_BanTuiSach-BaiHoangTienAnhSuaLanCuoi\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.KhachHang.resources
+C:\Users\LEGION\Downloads\DA1_BanTuiSach-BaiLeVanTinhDaLamMenu\DA1_BanTuiSach-BaiHoangTienAnhSuaLanCuoi\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.KhuyenMai.resources
+C:\Users\LEGION\Downloads\DA1_BanTuiSach-BaiLeVanTinhDaLamMenu\DA1_BanTuiSach-BaiHoangTienAnhSuaLanCuoi\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.FormBanHang.resources
+C:\Users\LEGION\Downloads\DA1_BanTuiSach-BaiLeVanTinhDaLamMenu\DA1_BanTuiSach-BaiHoangTienAnhSuaLanCuoi\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.Menu.resources
+C:\Users\LEGION\Downloads\DA1_BanTuiSach-BaiLeVanTinhDaLamMenu\DA1_BanTuiSach-BaiHoangTienAnhSuaLanCuoi\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.Properties.Resources.resources
+C:\Users\LEGION\Downloads\DA1_BanTuiSach-BaiLeVanTinhDaLamMenu\DA1_BanTuiSach-BaiHoangTienAnhSuaLanCuoi\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.FormQuanLyHoaDon.resources
+C:\Users\LEGION\Downloads\DA1_BanTuiSach-BaiLeVanTinhDaLamMenu\DA1_BanTuiSach-BaiHoangTienAnhSuaLanCuoi\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.QuanLyNhanVien.resources
+C:\Users\LEGION\Downloads\DA1_BanTuiSach-BaiLeVanTinhDaLamMenu\DA1_BanTuiSach-BaiHoangTienAnhSuaLanCuoi\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.QuenMatKhau.resources
+C:\Users\LEGION\Downloads\DA1_BanTuiSach-BaiLeVanTinhDaLamMenu\DA1_BanTuiSach-BaiHoangTienAnhSuaLanCuoi\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.SanPham.resources
+C:\Users\LEGION\Downloads\DA1_BanTuiSach-BaiLeVanTinhDaLamMenu\DA1_BanTuiSach-BaiHoangTienAnhSuaLanCuoi\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.ThongKe.resources
+C:\Users\LEGION\Downloads\DA1_BanTuiSach-BaiLeVanTinhDaLamMenu\DA1_BanTuiSach-BaiHoangTienAnhSuaLanCuoi\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.csproj.GenerateResource.cache
+C:\Users\LEGION\Downloads\DA1_BanTuiSach-BaiLeVanTinhDaLamMenu\DA1_BanTuiSach-BaiHoangTienAnhSuaLanCuoi\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Downloads\DA1_BanTuiSach-BaiLeVanTinhDaLamMenu\DA1_BanTuiSach-BaiHoangTienAnhSuaLanCuoi\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.exe
+C:\Users\LEGION\Downloads\DA1_BanTuiSach-BaiLeVanTinhDaLamMenu\DA1_BanTuiSach-BaiHoangTienAnhSuaLanCuoi\DA_1BanTuiSach\DA_1BanTuiSach\obj\Debug\DA_1BanTuiSach.pdb
